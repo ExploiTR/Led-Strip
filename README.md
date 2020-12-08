@@ -1,5 +1,5 @@
 # Led-Strip
-Control IR based LED Strip with a mobile app and ESP8266
+Control IR based LED Strip with a mobile app and ESP8266 paired with and IR Sensor. IR codes were dumped using IRrecvDumpV3 from IRremoteESP8266.
 
 ## Libraries for Arduino :
 https://github.com/crankyoldgit/IRremoteESP8266
